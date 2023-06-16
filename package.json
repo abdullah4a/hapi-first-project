@@ -7,5 +7,8 @@
     "start": "node --watch index.js"
   },
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.2"
+  }
 }
